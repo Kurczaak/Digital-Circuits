@@ -1,0 +1,8 @@
+vhdl work "MultiplyAndInver_8x16.vhf"
+vhdl work "IsZero.vhf"
+vhdl work "ConditionalBlock.vhf"
+vhdl work "Change_8x16.vhf"
+vhdl work "OperationalUnit.vhf"
+vhdl work "ControlUnit.vhf"
+vhdl work "Project_System.vhf"
+vhdl work "Project_SystemTB.vhd"

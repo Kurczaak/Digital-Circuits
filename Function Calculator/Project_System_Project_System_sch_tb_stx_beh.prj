@@ -1,0 +1,3 @@
+vhdl isim_temp "OperationalUnit.vhf"
+vhdl isim_temp "ControlUnit.vhf"
+vhdl isim_temp "Project_SystemTB.vhd"

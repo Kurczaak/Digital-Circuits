@@ -1,0 +1,4 @@
+sch2hdl,-intstyle,ise,-family,spartan3a,-flat,-suppress,-vhdl,D:/EDC1/Function Calculator/Project_System.vhf,-w,D:/EDC1/Function Calculator/Project_System.sch
+sch2hdl,-intstyle,ise,-family,spartan3a,-flat,-suppress,-vhdl,D:/EDC1/Function Calculator/ControlUnit.vhf,-w,D:/EDC1/Function Calculator/ControlUnit.sch
+sch2hdl,-intstyle,ise,-family,spartan3a,-flat,-suppress,-vhdl,D:/EDC1/Function Calculator/OperationalUnit.vhf,-w,D:/EDC1/Function Calculator/OperationalUnit.sch
+sch2hdl,-intstyle,ise,-family,spartan3a,-flat,-suppress,-vhdl,D:/EDC1/Function Calculator/Project_System.vhf,-w,D:/EDC1/Function Calculator/Project_System.sch

@@ -1,0 +1,5 @@
+MODULE Project_System
+	SUBMODULE ControlUnit
+		INSTANCE XLXI_96
+	SUBMODULE OperationalUnit
+		INSTANCE XLXI_97

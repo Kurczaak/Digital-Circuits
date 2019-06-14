@@ -1,0 +1,50 @@
+Running: D:\Xilinx2\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/EDC1/Function Calculator/Project_System_Project_System_sch_tb_isim_beh.exe -prj D:/EDC1/Function Calculator/Project_System_Project_System_sch_tb_beh.prj work.Project_System_Project_System_sch_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/EDC1/Function Calculator/MultiplyAndInver_8x16.vhf" into library work
+Parsing VHDL file "D:/EDC1/Function Calculator/IsZero.vhf" into library work
+Parsing VHDL file "D:/EDC1/Function Calculator/ConditionalBlock.vhf" into library work
+Parsing VHDL file "D:/EDC1/Function Calculator/Change_8x16.vhf" into library work
+Parsing VHDL file "D:/EDC1/Function Calculator/OperationalUnit.vhf" into library work
+Parsing VHDL file "D:/EDC1/Function Calculator/ControlUnit.vhf" into library work
+Parsing VHDL file "D:/EDC1/Function Calculator/Project_System.vhf" into library work
+Parsing VHDL file "D:/EDC1/Function Calculator/Project_SystemTB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture buf_v of entity BUF [buf_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture or3_v of entity OR3 [or3_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture and2b1_v of entity AND2B1 [and2b1_default]
+Compiling architecture behavioral of entity ConditionalBlock_MUSER_Project_System [conditionalblock_muser_project_s...]
+Compiling architecture fd_v of entity FD [\FD('0')\]
+Compiling architecture or4_v of entity OR4 [or4_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture behavioral of entity ControlUnit_MUSER_Project_System [controlunit_muser_project_system...]
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity SR16CLED_HXILINX_Project_System [sr16cled_hxilinx_project_system_...]
+Compiling architecture behavioral of entity SR8CLED_HXILINX_Project_System [sr8cled_hxilinx_project_system_d...]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture behavioral of entity MultiplyAndInver_8x16_MUSER_Project_System [multiplyandinver_8x16_muser_proj...]
+Compiling architecture obuft16_hxilinx_project_system_v of entity OBUFT16_HXILINX_Project_System [obuft16_hxilinx_project_system_d...]
+Compiling architecture add16_hxilinx_project_system_v of entity ADD16_HXILINX_Project_System [add16_hxilinx_project_system_def...]
+Compiling architecture nor8_hxilinx_project_system_v of entity NOR8_HXILINX_Project_System [nor8_hxilinx_project_system_defa...]
+Compiling architecture behavioral of entity IsZero_MUSER_Project_System [iszero_muser_project_system_defa...]
+Compiling architecture behavioral of entity Change_8x16_MUSER_Project_System [change_8x16_muser_project_system...]
+Compiling architecture behavioral of entity OperationalUnit_MUSER_Project_System [operationalunit_muser_project_sy...]
+Compiling architecture behavioral of entity Project_System [project_system_default]
+Compiling architecture behavioral of entity project_system_project_system_sc...
+Time Resolution for simulation is 1ps.
+Waiting for 20 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: System nie mo¿e odnale æ okre lonej  cie¿ki, "isim\Project_System_Project_System_sch_tb_isim_beh.exe.sim\libPortability.dll".
+Compiled 49 VHDL Units
+Built simulation executable D:/EDC1/Function Calculator/Project_System_Project_System_sch_tb_isim_beh.exe
+Fuse Memory Usage: 53352 KB
+Fuse CPU Usage: 1030 ms
